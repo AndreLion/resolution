@@ -1,0 +1,22 @@
+{
+  "name": "resolution",
+  "version": "1.0.0",
+  "description": "Resolution of mobile devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreLion/resolution.git"
+  },
+  "keywords": [
+    "resolution"
+  ],
+  "author": "Andre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreLion/resolution/issues"
+  },
+  "homepage": "https://github.com/AndreLion/resolution#readme"
+}
